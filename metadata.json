@@ -1,0 +1,6 @@
+{
+  "name": "Rajalingam Narayanakumar Portfolio",
+  "description": "An interactive, highly advanced portfolio for AI Student Rajalingam Narayanakumar, featuring a beautiful liquid glassmorphic design, a detailed tech stack and certs explorer, a complete responsive project showcase, and a zoomable lightbox achievements gallery.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
